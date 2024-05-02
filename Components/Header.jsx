@@ -1,8 +1,15 @@
 function Header(){
     return(
-        <header>
-            <h1>React-Developer</h1>
-        </header>
+         <body>
+            <h2>Ramchenna B</h2>
+            <h3>Skills</h3>
+            <ul>
+                <li>Frontend</li>
+                <li>Backend</li>
+                <li>Devops</li>
+            </ul>
+         </body>
     );
+    
 }
 export default Header
