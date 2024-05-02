@@ -1,0 +1,16 @@
+.welcome{
+  font-size: 2em;
+  background-color:hsla(120, 100%, 25%, 0.744);
+  padding:10px;
+  color:white;
+  border-radius:5px;
+  margin:0;
+}
+.prompt{
+  font-size: 2em;
+  background-color:hsl(357, 100%, 50%);
+  padding:10px;
+  color:black;
+  border-radius:5px;
+  margin:0;
+}
