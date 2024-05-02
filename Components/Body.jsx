@@ -1,4 +1,4 @@
-function Header(){
+function Body(){
     return(
          <body>
             <h2>Ramchenna B</h2>
@@ -12,4 +12,4 @@ function Header(){
     );
     
 }
-export default Header
+export default Body
