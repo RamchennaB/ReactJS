@@ -8,8 +8,8 @@ function List(props){
                                            <b>{item.calories}</b></li>);
     return(
         <>
-        <h1>{category}</h1>
-         <ol>{listitems}</ol>
+        <h1 className="list-category">{category}</h1>
+         <ol className="list-items">{listitems}</ol>
         </>
     );
    
