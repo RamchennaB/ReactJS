@@ -75,8 +75,15 @@ li{
   background-color:hsl(0, 59%, 31%);
 }
 .save{
-  background-color:green;
+  background-color:hsl(125, 47%, 54%);
 }
 .cancel{
-  background-color:red;
+  background-color:hsl(0, 86%, 51%);
 }
+.save:hover{
+  background-color:hsl(125, 47%, 44%);
+}
+.cancel:hover{
+  background-color:hsl(0, 86%, 41%);
+}
+
