@@ -63,8 +63,14 @@ li{
 .text{
   flex:1;
 }
-.delete-button, .move-button{
+.delete-button, .move-button, .edit-button{
   padding:8px 12px;
   font-size:1.4rem;
   margin-left:10px;
+}
+.edit-button{
+  background-color: hsl(0, 59%, 41%);
+}
+.edit-button:hover{
+  background-color:hsl(0, 59%, 31%);
 }
