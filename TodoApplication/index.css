@@ -63,7 +63,7 @@ li{
 .text{
   flex:1;
 }
-.delete-button, .move-button, .edit-button{
+.delete-button, .move-button, .edit-button, .save, .cancel{
   padding:8px 12px;
   font-size:1.4rem;
   margin-left:10px;
@@ -73,4 +73,10 @@ li{
 }
 .edit-button:hover{
   background-color:hsl(0, 59%, 31%);
+}
+.save{
+  background-color:green;
+}
+.cancel{
+  background-color:red;
 }
