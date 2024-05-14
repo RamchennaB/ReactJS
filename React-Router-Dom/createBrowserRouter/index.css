@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-size: 3em;
+  }
+  p{
+    text-align: center;
+    font-size: 2em;
+  }
+  .nav-list{
+    display: flex;
+    list-style: none;
+  }
+  .nav-list li{
+    margin-right:5px;
+  }
