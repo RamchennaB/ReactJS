@@ -1,0 +1,37 @@
+.nav{
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: space-between;
+    top: 0px;
+    background-blend-mode: darken;
+    background-size: cover;
+    color: white;
+    padding: 10px 20px;
+    background-color:green;
+}
+.nav-list {
+    display: flex;
+    list-style: none;
+}
+.nav-list li{
+    margin-right:15px;
+}
+input[type="text"]{
+    border:none;
+    padding:5px;
+}
+button{
+    margin:0;
+}
+a:link { text-decoration: none; }
+a:visited {text-decoration: none; }
+a:hover { 
+    text-decoration: underline;
+    border:none;
+    border-radius:2px;
+    padding:3px;}
+a:active { text-decoration: none; }
+a{
+    color:black;
+}
