@@ -1,0 +1,50 @@
+
+body{
+  background-color: burlywood;
+}
+.Login{
+  text-align: center;
+  margin-top:15%;
+  background-color:#dc6c47;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:400px;
+  height:350px;
+  border-radius:10px;
+}
+h1{
+   padding:30px;
+}
+input[type="email"]{
+  padding:10px;
+  margin-bottom:12px;
+  border:none;
+  border-radius:5px;
+  background-color:burlywood;
+}
+input[type="password"]{
+  padding:10px;
+  margin-bottom:12px;
+  border:none;
+  border-radius:5px;
+  background-color:burlywood;
+}
+input[type="checkbox"]{
+  margin-left:-70px;
+  margin-top:5px;
+  color:gray;
+}
+button{
+  margin-top:50px;
+  padding:5px;
+  background-color:hsl(0, 0%, 0%);
+  color:white;
+  align-items:right;
+  border:none;
+  border-radius:5px;
+  width:150px;
+}
+button:hover{
+  background-color: hsla(0, 0%, 0%, 0.608);
+}
