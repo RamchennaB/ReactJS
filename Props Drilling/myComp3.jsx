@@ -1,3 +1,4 @@
+import React from'react';
 function myComp3(props){
     return(
         <div className="box">
